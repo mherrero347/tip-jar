@@ -1,5 +1,6 @@
 from time import sleep
 from venmo_api import Client
+from secrets import access_token
 from gpiozero import LED
 
 OUT_LED = 17
