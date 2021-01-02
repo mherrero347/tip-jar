@@ -33,5 +33,4 @@ if __name__ == '__main__':
             continue
 
         light_up()
-        print(vars(newest))
         first_id = newest.id
